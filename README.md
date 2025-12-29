@@ -81,3 +81,9 @@ Example plots generated from the analysis are included in this repository.
 ## Notes
 This project focuses on droplet geometry evolution and does not include flame color or flame shape analysis.
 
+
+# Square of Droplet Diameter vs Time
+
+
+![D^2 vs t](droplet_dia2vt.png)
+

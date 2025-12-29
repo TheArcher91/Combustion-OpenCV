@@ -54,7 +54,7 @@ The code processes high-speed camera images to:
 ## Theoretical Background
 According to the D²-law of droplet combustion:
 \[
-D^2 = D_0^2 - k t
+D² = D₀²- k.t
 \]
 where \(D\) is the droplet diameter, \(D_0\) is the initial diameter, and \(k\) is the burning rate constant.
 

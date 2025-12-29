@@ -56,7 +56,7 @@ According to the D²-law of droplet combustion:
 \[
 D² = D₀²- k.t
 \]
-where \(D\) is the droplet diameter, \(D_0\) is the initial diameter, and \(k\) is the burning rate constant.
+where \(D\) is the droplet diameter, \(D₀\) is the initial diameter, and \(k\) is the burning rate constant.
 
 ## Outputs
 - Diameter vs Time plot
